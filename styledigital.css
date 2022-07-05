@@ -1,0 +1,66 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+@font-face{
+    font-family: "Graffiti";
+    src: url("Graffiti.ttf") format("OpenType")
+ }
+
+  @font-face{
+    font-family: "Poppins-Bold";
+    src: url("Poppins-Bold.ttf") format("OpenType")
+ }
+
+@font-face{
+    font-family: "Poppins-Regular";
+    src: url("Poppins-Regular.ttf") format("OpenType")
+ }
+
+
+
+.imagensrainbow{
+    height: 200px;
+    width: 200px;
+}
+
+.divrainbow{
+    align-items: center;
+    background-color: #f5f5f5;
+    width:200x;
+    height: 200px;
+    margin: 23px;
+    margin-bottom: 100px;
+    
+}
+
+#divscon{
+    align-items: center;
+    background-color: #f5f5f5;
+    padding-top: 100px;
+    display: flex;
+    width:100vw;
+    justify-content: space-around;
+
+}
+
+.namesrainbow{
+    font-family: Poppins-Bold;
+}
+
+#logocat{
+
+    width: 100vw;;
+    margin: 100px;
+}
+
+#imgcat{
+    width: 860px;
+    height: 80px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+span{
+
+}

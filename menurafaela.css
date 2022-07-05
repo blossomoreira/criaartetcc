@@ -1,0 +1,12 @@
+#logo2{
+    padding-top: 100px;
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 10px;
+}
+
+#logo{
+    width: 100px;
+    height: 100px;
+    
+}
